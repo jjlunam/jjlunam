@@ -50,7 +50,7 @@ Construyo herramientas pequeñas y confiables que quitan trabajo manual: sistema
 
 <!-- Agrega el enlace a cada repositorio cuando sea público: [**Nombre**](https://github.com/TU_USUARIO/repo) -->
 
-## `> actividad`
+<!-- ## `> actividad`
 
 <div align="center">
 
@@ -61,4 +61,4 @@ Construyo herramientas pequeñas y confiables que quitan trabajo manual: sistema
 
 <div align="center">
 <sub><code>// construyo herramientas que trabajan solas</code></sub>
-</div>
+</div> -->
