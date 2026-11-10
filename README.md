@@ -48,15 +48,15 @@ Construyo herramientas pequeñas y confiables que quitan trabajo manual: sistema
 
 <!-- Agrega el enlace a cada repositorio cuando sea público: [**Nombre**](https://github.com/TU_USUARIO/repo) -->
 
-<!-- ## `> actividad`
+## `> actividad`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=05070f&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="Estadísticas de GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&bg_color=05070f&title_color=22d3ee&text_color=cbd5e1" alt="Lenguajes más usados" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=jjlunam&show_icons=true&hide_border=true&bg_color=05070f&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="Estadísticas de GitHub" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlunam&layout=compact&hide_border=true&bg_color=05070f&title_color=22d3ee&text_color=cbd5e1" alt="Lenguajes más usados" height="165" />
 
 </div>
 
 <div align="center">
 <sub><code>// construyo herramientas que trabajan solas</code></sub>
-</div> -->
+</div> 
