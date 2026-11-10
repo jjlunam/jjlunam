@@ -53,7 +53,7 @@ Construyo herramientas pequeñas y confiables que quitan trabajo manual: sistema
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jjlunam&show_icons=true&hide_border=true&bg_color=05070f&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1" alt="Landing page" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlunam&layout=compact&hide_border=true&bg_color=05070f&title_color=22d3ee&text_color=cbd5e1" alt="Lenguajes más usados" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjlunam-2144&layout=compact&hide_border=true&bg_color=05070f&title_color=22d3ee&text_color=cbd5e1" alt="Lenguajes más usados" height="165" />
 
 </div>
 
