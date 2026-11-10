@@ -4,9 +4,9 @@
 
 <br />
 
-<a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-TU__USUARIO-0a1024?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=05070f" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-conectar-0a1024?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=05070f" alt="LinkedIn" /></a>
-<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Email-escribir-0a1024?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=05070f" alt="Email" /></a>
+<a href="https://github.com/jjlunam"><img src="https://img.shields.io/badge/GitHub-jjlunam-0a1024?style=for-the-badge&logo=github&logoColor=22d3ee&labelColor=05070f" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jos-luna"><img src="https://img.shields.io/badge/LinkedIn-conectar-0a1024?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=05070f" alt="LinkedIn" /></a>
+<a href="mailto:jjlunam@gmail.com"><img src="https://img.shields.io/badge/Email-escribir-0a1024?style=for-the-badge&logo=gmail&logoColor=a78bfa&labelColor=05070f" alt="Email" /></a>
 
 </div>
 
