@@ -34,8 +34,6 @@ Construyo herramientas pequeñas y confiables que quitan trabajo manual: sistema
 <img src="https://img.shields.io/badge/Streamlit-05070f?style=for-the-badge&logo=streamlit&logoColor=22d3ee" alt="Streamlit" />
 <img src="https://img.shields.io/badge/n8n-05070f?style=for-the-badge&logo=n8n&logoColor=a78bfa" alt="n8n" />
 <img src="https://img.shields.io/badge/Ollama-05070f?style=for-the-badge&logo=ollama&logoColor=a78bfa" alt="Ollama" />
-<img src="https://img.shields.io/badge/PyInstaller-05070f?style=for-the-badge&logoColor=a78bfa" alt="PyInstaller" />
-<img src="https://img.shields.io/badge/Inno_Setup-05070f?style=for-the-badge&logoColor=a78bfa" alt="Inno Setup" />
 <img src="https://img.shields.io/badge/Git-05070f?style=for-the-badge&logo=git&logoColor=a78bfa" alt="Git" />
 
 </div>
